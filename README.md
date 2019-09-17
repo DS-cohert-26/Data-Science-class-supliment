@@ -7,6 +7,7 @@ Data Science Both camp
 - [Machine Learning Mastering](https://machinelearningmastery.com/start-here/)
 - [Kaggle Course](https://www.kaggle.com/learn/overview)
 ## Blog articles
+- [Machine learning|ritchie ng](https://www.ritchieng.com/machine-learning-resources/)
 - [Machine Learning 200 best article](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 -[Acadgild](https://acadgild.com/blog/)
 - [Recommendation engine](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
