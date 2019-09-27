@@ -15,6 +15,8 @@ Data Science Both camp
 ## NLP pretrained model
 - [Machine Translation](https://paperswithcode.com/task/machine-translation)
 ## Dataset
+- [NLP dataset](# Dataset
+- [NLP Data set](https://github.com/niderhoff/nlp-datasets)
 - [Data Science projects 1| kaggle](https://www.kaggle.com/datasets)
 - [Data Science projects 2|UCI](https://archive.ics.uci.edu/ml/datasets.php)
 - [Data Science projects 3](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
