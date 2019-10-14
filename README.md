@@ -12,7 +12,8 @@ Data Science Both camp
 -[Acadgild](https://acadgild.com/blog/)
 - [Recommendation engine](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
 - [Ultimate guide to deal with Text Data](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
-## NLP pretrained model
+## NLP
+- [Approaching-almost-any-nlp-problem-on-kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
 - [Machine Translation](https://paperswithcode.com/task/machine-translation)
 ## Datasetset
 - [NLP Data set](https://github.com/niderhoff/nlp-datasets)
